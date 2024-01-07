@@ -1,0 +1,9 @@
+C:\3d-software\ghopPluginsPersonal\NextClosestPoint\NCP\bin\Debug\net48\NCP.gha
+C:\3d-software\ghopPluginsPersonal\NextClosestPoint\NCP\bin\Debug\net48\NCP.pdb
+C:\3d-software\ghopPluginsPersonal\NextClosestPoint\NCP\obj\Debug\net48\NCP.csproj.AssemblyReference.cache
+C:\3d-software\ghopPluginsPersonal\NextClosestPoint\NCP\obj\Debug\net48\NCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\3d-software\ghopPluginsPersonal\NextClosestPoint\NCP\obj\Debug\net48\NCP.AssemblyInfoInputs.cache
+C:\3d-software\ghopPluginsPersonal\NextClosestPoint\NCP\obj\Debug\net48\NCP.AssemblyInfo.cs
+C:\3d-software\ghopPluginsPersonal\NextClosestPoint\NCP\obj\Debug\net48\NCP.csproj.CoreCompileInputs.cache
+C:\3d-software\ghopPluginsPersonal\NextClosestPoint\NCP\obj\Debug\net48\NCP.gha
+C:\3d-software\ghopPluginsPersonal\NextClosestPoint\NCP\obj\Debug\net48\NCP.pdb

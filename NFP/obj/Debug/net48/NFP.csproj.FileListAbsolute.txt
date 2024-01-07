@@ -1,0 +1,9 @@
+C:\3d-software\ghopPluginsPersonal\NextFurthestPoints\NFP\bin\Debug\net48\NFP.gha
+C:\3d-software\ghopPluginsPersonal\NextFurthestPoints\NFP\bin\Debug\net48\NFP.pdb
+C:\3d-software\ghopPluginsPersonal\NextFurthestPoints\NFP\obj\Debug\net48\NFP.csproj.AssemblyReference.cache
+C:\3d-software\ghopPluginsPersonal\NextFurthestPoints\NFP\obj\Debug\net48\NFP.GeneratedMSBuildEditorConfig.editorconfig
+C:\3d-software\ghopPluginsPersonal\NextFurthestPoints\NFP\obj\Debug\net48\NFP.AssemblyInfoInputs.cache
+C:\3d-software\ghopPluginsPersonal\NextFurthestPoints\NFP\obj\Debug\net48\NFP.AssemblyInfo.cs
+C:\3d-software\ghopPluginsPersonal\NextFurthestPoints\NFP\obj\Debug\net48\NFP.csproj.CoreCompileInputs.cache
+C:\3d-software\ghopPluginsPersonal\NextFurthestPoints\NFP\obj\Debug\net48\NFP.gha
+C:\3d-software\ghopPluginsPersonal\NextFurthestPoints\NFP\obj\Debug\net48\NFP.pdb

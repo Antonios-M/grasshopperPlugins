@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rYxBcFK1PaJ/96pT6sSsYoqqGHQTkaggW+WxlAoJRf4POf08erXQDL76AmEGY+7Otx4Elr0EA0+DUCk4B0jWHQ==",
+  "success": true,
+  "projectFilePath": "C:\\3d-software\\ghopPluginsPersonal\\ClosestPointsWithinRange\\ClosestPointsWithinRange\\ClosestPointsWithinRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

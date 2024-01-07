@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhHgaL+WqveyEPcd55VYs1+1k78jq+v1k5Bw3G1Yenv8YbbUBoBgWlV+LeiQ5pNssEFQsN442DO24yRABOfEAA==",
+  "success": true,
+  "projectFilePath": "C:\\3d-software\\ghopPluginsPersonal\\VariableCircleRadiusRelaxation\\VariableRadiusCircleRelaxation\\VariableRadiusCircleRelaxation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

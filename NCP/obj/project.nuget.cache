@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4LQ9Myb9XjbN+q6/wg+Uxx7VeDkjjPuKybgzFHtDRc13RKwXgLSfdfiJVxXBaHMJipYzAWXTM06ZAFXpIMv/A==",
+  "success": true,
+  "projectFilePath": "C:\\3d-software\\ghopPluginsPersonal\\NextClosestPoint\\NCP\\NCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anton\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\Anton\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NFP": {
+      "commandName": "Executable",
+      "executablePath": "C:\\3d-software\\System\\Rhino.exe",
+      "commandLineArgs": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\3d-software\ghopPluginsPersonal\ClosestPointsWithinRange\ClosestPointsWithinRange\bin\Debug\net48\ClosestPointsWithinRange.gha
+C:\3d-software\ghopPluginsPersonal\ClosestPointsWithinRange\ClosestPointsWithinRange\bin\Debug\net48\ClosestPointsWithinRange.pdb
+C:\3d-software\ghopPluginsPersonal\ClosestPointsWithinRange\ClosestPointsWithinRange\obj\Debug\net48\ClosestPointsWithinRange.csproj.AssemblyReference.cache
+C:\3d-software\ghopPluginsPersonal\ClosestPointsWithinRange\ClosestPointsWithinRange\obj\Debug\net48\ClosestPointsWithinRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\3d-software\ghopPluginsPersonal\ClosestPointsWithinRange\ClosestPointsWithinRange\obj\Debug\net48\ClosestPointsWithinRange.AssemblyInfoInputs.cache
+C:\3d-software\ghopPluginsPersonal\ClosestPointsWithinRange\ClosestPointsWithinRange\obj\Debug\net48\ClosestPointsWithinRange.AssemblyInfo.cs
+C:\3d-software\ghopPluginsPersonal\ClosestPointsWithinRange\ClosestPointsWithinRange\obj\Debug\net48\ClosestPointsWithinRange.csproj.CoreCompileInputs.cache
+C:\3d-software\ghopPluginsPersonal\ClosestPointsWithinRange\ClosestPointsWithinRange\obj\Debug\net48\ClosestPointsWithinRange.gha
+C:\3d-software\ghopPluginsPersonal\ClosestPointsWithinRange\ClosestPointsWithinRange\obj\Debug\net48\ClosestPointsWithinRange.pdb
