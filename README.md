@@ -1,4 +1,4 @@
-## A set of Grasshopper Plugins made to ease workflows in university and personal projects:
+## A set of Grasshopper Plugins made to improve workflows in university and personal projects:
 ### Recursive:
 #### NextClosestPoint
 a recursive algorithm for finding the next n closest points to a cloud of 'obstacles' points which updates with each recursive call. Points are found from a cloud of 'candidates' points. Proximity is judged as the mass multiplication of the distances from each cndidate to every obstacle.
