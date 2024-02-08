@@ -10,4 +10,5 @@ a plugin aimed at relaxing a set of points with a set of given radii so that the
 Data-Structures/Optimisation:
 #### ClosestPointsWithinRange (R-Tree)
 an algorithm that finds clusters of points around focus points, given a set of candidate points and a distance. While this is very possible with vanilla grasshopper, it is brute forced with components such as ClosestPoint so I made an algorithm to use the R-Tree data structure to search for neighbouring points.
-    
+
+![pluginsJPG_Page_11](https://github.com/Antonios-M/grasshopperPlugins/assets/47828043/133a82d1-5792-4898-872e-f7b3ce83a092)
